@@ -113,6 +113,8 @@ A place to keep neat, cool, secret GoLand shortcuts currently for Mac only.
 |Navigate to super method|⌘U
 |Navigate to test|⇧⌘T
 |Search everywhere|Double Shift
+|Next highlighted element usage|⌃⌥↓
+|Prev highlighted element usage|⌃⌥↑
 
 ## Build and Run
 
