@@ -29,7 +29,7 @@ A place to keep neat, cool, secret GoLand shortcuts currently for Mac only.
 |------|--------|
 |Docume­ntation|F1
 |Quick definition|⌥Space
-|Show usages|⌥⌘F7
+|Show usages|⌥F7
 |Show implementation|⌥⌘B
 
 ## Refact­oring
@@ -145,23 +145,23 @@ A place to keep neat, cool, secret GoLand shortcuts currently for Mac only.
 |------|--------|
 |Action|⌘^a
 |Extract Method|⌘⌥m
-|Select inclusively next word|⌥ ⬆ →
+|Select inclusively next word|⌥⇧→
 |Comment line|⌘ /
 |Basic completion suggestion|^Space
-|Quick completion of a line|⌘⬆Enter
-|Smart type completion|^⬆Space
+|Quick completion of a line|⌘⇧Enter
+|Smart type completion|^⇧Space
 |Method-Like Function Completion dot|^Space
 |Method-Like Function Completion dot|^ Space ^ Space
 |Postfix Completion type|dot after a variable
 |Completion with tab|will replace existing function with the selected one
-|Rename|⬆F6
+|Rename|⇧F6
 |Extract Variable|⌘⌥v
 |Inline place cursor at the variable and|⌘⌥n
-|Extract Function place cursor at the code and|⌘ ⌥ m
+|Extract Function place cursor at the code and|⌘⌥m
 |Reformat the code|⌘⌥l
 |Go to next highlighted error in the file|F2
-|Implement missing methods|⌥ Enter
-|Format string argument|⌥ Enter
+|Implement missing methods|⌥Enter
+|Format string argument|⌥Enter
 
 ## Reference
 
